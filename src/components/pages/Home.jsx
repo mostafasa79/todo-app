@@ -159,7 +159,7 @@ const Home = () => {
             />
           </div>
           <span className="text-lg font-bold text-gray-800 dark:text-slate-100">
-            Unassigned Tasks
+             Tasks
           </span>
         </button>
         
