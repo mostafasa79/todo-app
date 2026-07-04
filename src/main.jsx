@@ -2,7 +2,6 @@ import { createBrowserRouter, RouterProvider } from "react-router";
 import { StrictMode } from "react";
 import { createRoot } from "react-dom/client";
 import "./index.css";
-import App from "./components/App";
 import Layout from "./components/Layout";
 import Home from "./components/pages/Home";
 import AllTasks from "./components/pages/AllTasks";
